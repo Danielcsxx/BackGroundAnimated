@@ -1,5 +1,3 @@
-/* for DanielCoelho */
-
 * {
     margin: 0;
     padding: 0;
@@ -35,14 +33,4 @@
     100% {
         background-position: 0 50%;
     }
-}
-
-@media (max-width: 800px) {
-    .helloWorld {
-        font-size: 6rem;
-        justify-content: center;
-        align-items: center;
-        display: flex;
-    }
-
 }
